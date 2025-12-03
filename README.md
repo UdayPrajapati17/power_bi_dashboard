@@ -3,6 +3,7 @@
 This repository contains a step-by-step Power BI project demonstrating data cleaning, transformation, and visualization. The workflow is organized into three .pbix files, each representing a different stage of the analysis process.
 
 📁 Project Files Overview
+
 1️⃣ sales_data.pbix – Raw Data Analysis
 
 This file contains the initial raw dataset loaded into Power BI.
